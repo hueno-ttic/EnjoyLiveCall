@@ -1,0 +1,76 @@
+{
+    "songs": [
+        {
+            "name": "king妃jack躍",
+            "artist": "宮守文学 feat. 初音ミク",
+            "url": "https://piapro.jp/t/ucgN/20230110005414",
+            "video": {
+                "beatId": 4267297,
+                "chordId": 2405019,
+                "repetitiveSegmentId": 2405019,
+                "lyricId": 56092,
+                "lyricDiffId": 9636
+            }
+        },
+        {
+            "name": "生きること",
+            "artist": "nogumi feat. 初音ミク",
+            "url": "https://piapro.jp/t/fnhJ/20230131212038",
+            "video": {
+                "beatId": 4267300,
+                "chordId": 2405033,
+                "repetitiveSegmentId": 2475606,
+                "lyricId": 56131,
+                "lyricDiffId": 9638
+            }
+        },
+        {
+            "name": "唱明者",
+            "artist": "すこやか大聖堂 feat. KAITO",
+            "url": "https://piapro.jp/t/Vfrl/20230120182855",
+            "video": {
+                "beatId": 4267334,
+                "chordId": 2405059,
+                "repetitiveSegmentId": 2475645,
+                "lyricId": 56095,
+                "lyricDiffId": 9637
+            }
+        },
+        {
+            "name": "ネオンライトの海を往く",
+            "artist": "Ponchi♪ feat. 初音ミク",
+            "url": "https://piapro.jp/t/ucgN/20230110005414",
+            "video": {
+                "beatId": 4267373,
+                "chordId": 2405138,
+                "repetitiveSegmentId": 2475664,
+                "lyricId": 56096,
+                "lyricDiffId": 9639
+            }
+        },
+        {
+            "name": "ミュウテイション",
+            "artist": "Rin（Kuroneko Lounge） feat. 初音ミク",
+            "url": "https://piapro.jp/t/Wk83/20230203141007",
+            "video": {
+                "beatId": 4267381,
+                "chordId": 2405285,
+                "repetitiveSegmentId": 2475676,
+                "lyricId": 56812,
+                "lyricDiffId": 10668
+            }
+        },
+        {
+            "name": "Entrust via 39",
+            "artist": "ikomai feat. 初音ミク",
+            "url": "https://songle.jp/songs/2427953/history",
+            "video": {
+                "beatId": 4269734,
+                "chordId": 2405723,
+                "repetitiveSegmentId": 2475686,
+                "lyricId": 56098,
+                "lyricDiffId": 9643
+            }
+        }
+    ]
+}
