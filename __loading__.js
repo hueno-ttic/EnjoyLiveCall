@@ -107,4 +107,5 @@ pc.script.createLoadingScreen(function (app) {
     });
     app.on('preload:progress', setProgress);
     app.on('start', hideSplash);
+    
 });
