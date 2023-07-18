@@ -25,9 +25,9 @@
   -  https://hueno-ttic.github.io/MagicalMiraiContest2023/
 
 ### 動作説明動画
-https://www.youtube.com/watch?v=HUQ6w_L58nQ
+https://www.youtube.com/watch?v=fpm2oQxESgA
 
-※ 提出したURLと違う場合がありますが、こちらのURLが最新になるので、こちらを参照していただけると幸いです。\
+※ 提出したURLと違いますが、こちらのURLが最新になるので、こちらを参照していただけると幸いです。\
 ※ 動画撮影の都合上、動画と実際のアプリの動作に差異がある可能性があります。実際の動作を確認する場合は上記のGitHub Pagesにて動作確認をしていただけると幸いです。
 
 ### アプリの特徴
